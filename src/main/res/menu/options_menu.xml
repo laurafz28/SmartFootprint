@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Option1"
+        android:title="Temperature"/>
+    <item
+        android:id="@+id/Option2"
+        android:title="Pressure" />
+    <item
+        android:id="@+id/Option3"
+        android:title="GPS" />
+    <item
+        android:id="@+id/Option4"
+        android:title="About me" />
+    <item
+        android:id="@+id/Option5"
+        android:title="Measures" />
+</menu>
